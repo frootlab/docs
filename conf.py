@@ -24,6 +24,8 @@ __author__ = 'Frootlab Developers'
 __email__ = 'contact@frootlab.org'
 __authors__ = ['Patrick Michl <patrick.michl@frootlab.org>']
 
+import sphinx_bootstrap_theme
+
 # Define module variables used by Sphinx
 copyright = __copyright__
 author = __author__
@@ -55,7 +57,8 @@ pygments_style = None
 
 # The theme to use for HTML and HTML Help pages. See the documentation for a
 # list of builtin themes.
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
