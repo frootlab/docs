@@ -1,6 +1,3 @@
-Frootlab Projects
-=================
-
 Welcome to the Frootlab Documentation. The following Project Documentations are
 available:
 

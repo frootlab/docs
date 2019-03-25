@@ -29,6 +29,7 @@ import sphinx_bootstrap_theme
 # Define module variables used by Sphinx
 copyright = __copyright__
 author = __author__
+project = 'Frootlab Docs'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
