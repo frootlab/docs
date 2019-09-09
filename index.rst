@@ -4,4 +4,4 @@
 
 	`Motley <http://docs.frootlab.org/projects/motley>`_
 
-	`flib <http://docs.frootlab.org/projects/flib>`_
+	`Hup <http://docs.frootlab.org/projects/hup>`_
