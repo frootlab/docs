@@ -1,4 +1,4 @@
-	`Nemoa <http://docs.frootlab.org/projects/nemoa>`_
+	`Rian <http://docs.frootlab.org/projects/rian>`_
 
 	`Deet <http://docs.frootlab.org/projects/deet>`_
 
